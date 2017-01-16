@@ -1,3 +1,4 @@
 [submodule "plmc"]
 	path = plmc
 	url = https://github.com/debbiemarkslab/plmc
+	branch = master
