@@ -1,7 +1,9 @@
 # EVmutation
 Mutation effects predicted from sequence co-variation
 
-*Please note that the code released here is a subset of a full Python package that covers the complete computational pipeline including alignment generation, which will be released soon. We recommend to check back here regularly for updates!*
+## Please note:
+
+*This package has been superseded by the [EVcouplings package](https://github.com/debbiemarkslab/EVcouplings), which covers the full computational pipeline including alignment generation, 3D structure prediction, and more. All functionality present in the EVmutation package is also available through EVcouplings; the repository here will only be kept as an archive and not be updated in the future.*
 
 ## Usage
 
